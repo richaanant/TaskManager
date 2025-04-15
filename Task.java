@@ -6,7 +6,7 @@ public class Task {
     String deadlines;
     int priority;
 
-    // Constructor for Task Class
+    // Constructor for Task Class (edited)
     public Task (String title, String date, Boolean isFinished, String deadlines, int priority) {
         this.title = title;
         this.date = date;
