@@ -15,6 +15,6 @@ Recurring: Recurrs the task what needs to be needs weekly.
 Technologies Used
 Java
 
-Objected Oriented Programming (OOP) Principles
+Object Oriented Programming (OOP) Principles
 
 Collections (ArrayLists)
